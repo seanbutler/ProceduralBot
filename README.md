@@ -1,6 +1,6 @@
 # ProceduralBot
 
-A python script that produces simple video game level designs.
+Just for fun. A python script that produces simple video game level designs.
 
 I Tweet Here, follow me.
 - https://twitter.com/BotProcedural
